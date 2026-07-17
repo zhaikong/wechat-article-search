@@ -1,13 +1,14 @@
 {
   "canonical_repository": "zjp1997720/zhijian-skills",
-  "export_digest": "31a32b1d5c6d3e86c1f588e52e7f5773771e57d9270a429d3c31fce07c6cc111",
+  "export_digest": "edafe24b746d1e233d00f811ae64b20faa261becc1c0d8dc79b5102b2f19e384",
   "files": {
     ".github/workflows/redirect-contributions.yml": "07df186b56b8ad5f799ea585601d1fbec345f5cb7b3626b0755a99c2fb802502",
-    "CHANGELOG.md": "4168e9d5117ec928d4d48f9d92a1dd6f23081d9144c7ed0c3b31835586c28e13",
-    "CONTRIBUTING.md": "c2e5f5ea8a62d4958cab579d670ff4a2614768ec4edfbbd04ef347bf71bdc402",
+    "CHANGELOG.md": "eb37c0b3392d20cc1644424f1320286fc9e16402d7a2b2bcd47dc258033196a9",
+    "CONTRIBUTING.md": "1419405f16cb6eba0f34af1642087cf75dd8b09903e25d3a414ca8634fc9308e",
     "LICENSE": "4c132f6df8bf3720921492fb26412abc98bf51eec6acbe89dbf95c8b09b8d340",
-    "README.md": "780c9225601adb5244bc018fcd7eb766f972b600069752b89610cb5d01557c79",
-    "README.zh-CN.md": "2af7790ad8b81bf851d8613d1e8cc5e8f92ec308a1e05f224570674a68b4a04b",
+    "README.md": "d10fad29ff6c7505505d7c3e017b994124c26198c76dad401d64f9c7d7651377",
+    "README.zh-CN.md": "c556dbde60e667b5cf2707c4fc43b6d8f56de940256a4ac787686860ffc64a42",
+    "assets/readme/hero.svg": "f8bad9a119ac926c23f4489673a50381380306005ed08aefd2cbce1fd637e264",
     "skills/wechat-article-search/LICENSE": "4c132f6df8bf3720921492fb26412abc98bf51eec6acbe89dbf95c8b09b8d340",
     "skills/wechat-article-search/SKILL.md": "11caaaa05db508c75c26c9d520dd52c8883430504fb55cd8558b2f664660e5da",
     "skills/wechat-article-search/agents/openai.yaml": "ff001af4c5df7d561bd10da5e9ba0b56f90ee31948fc3616a5d3c46d8519004e",
@@ -21,6 +22,6 @@
   "payload_digest": "b6fb5a9848c161818452ff7ad7a2e8ab497d8343261bfbe9c65ff9d9cf32b01a",
   "schema_version": "1.0.0",
   "skill": "wechat-article-search",
-  "source_commit": "e69c5daca7563c75fe5a44a6bf3445163f03b116",
-  "version": "1.0.0"
+  "source_commit": "30423a79ac7890bca3a9cc8592c241e3a9d91e69",
+  "version": "1.0.1"
 }
